@@ -269,7 +269,7 @@ openssl req -new -x509 -days 3650 -key "private.key" -out "cert.pem" -subj "/CN=
                 },
                 "private_key": "$private_key",
                 "short_id": [
-                  "6bbbf7e"
+                  ""
                 ]
             }
         }
