@@ -346,12 +346,12 @@ openssl req -new -x509 -days 3650 -key "private.key" -out "cert.pem" -subj "/CN=
                     "reality": {
                         "enabled": true,
                         "handshake": {
-                            "server": "cdn-dynmedia-1.microsoft.com",
+                            "server": "wcdn-dynmedia-1.microsoft.com",
                             "server_port": 443
                         },
                         "private_key": "$private_key",
                         "short_id": [
-                            ""
+                            "ffdde08b"
                         ]
                     }
                 }
